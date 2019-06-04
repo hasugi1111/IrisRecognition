@@ -1,5 +1,5 @@
 # IrisRecognition
-Iris Recognition on CASIA Iris Image Database
+Iris Recognition on CASIA Iris Image Database. Course project for GR5293 Applied Machine Learning for Image Analysis in Columbia.
 
 ## Environment
 Python 2.7
